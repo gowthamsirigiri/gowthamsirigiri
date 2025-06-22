@@ -1,0 +1,12 @@
+name: "Testing Action on this project"
+on:
+push:"main"
+jobs:
+checking below:
+name:
+runs-on:ubuntu-latest
+steps:
+-name:"run below"
+uses:actions/checkout@v3
+-name:"run action"
+run:echo "gowtham ."
