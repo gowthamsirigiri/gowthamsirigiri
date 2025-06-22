@@ -1,12 +1,17 @@
 name: "Testing Action on this project"
+
 on:
-push:"main"
+  push:
+   branches:
+      - main # This will run the workflow only when there's a push to the 'main' branch
+
 jobs:
-checking below:
-name:
-runs-on:ubuntu-latest
-steps:
--name:"run below"
-uses:actions/checkout@v3
--name:"run action"
-run:echo "gowtham ."
+  check_workflow: # This is the job ID, you can name it anything descriptive
+    name: "Checking Workflow Execution" # Human-readable name for the job
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout code" # Human-readable name for the step
+        uses: actions/checkout@v3 # Use the checkout action to get your repository's code
+
+      - name: "Run a simple command" # Human-readable name for the step
+        run: echo "gowtham ." # Execute a simple shell command
