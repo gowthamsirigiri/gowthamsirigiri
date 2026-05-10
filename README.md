@@ -32,14 +32,6 @@
 - 💰 **Saved $10K+ annually** at ADP via AWS Lambda cost-optimization automation.
 - ⚡ **Reduced MTTR by 50%** through advanced RCA and observability tooling.
 
----
-
-### 🤖 Featured Project: AI-Ops Self-Healing Agent
-*Building the next generation of "Autonomous SRE."*
-- **The Repo:** [K8s-LLM-Healer](https://github.com/gowthamsirigiri/k8s-llm-healer)
-- **What it does:** A Python-based watcher that detects `CrashLoopBackOff`, feeds logs into an LLM, and provides a suggested fix or automated patch via K8s API.
-
----
 
 ### 📊 GitHub Stats (Real-Time)
 
