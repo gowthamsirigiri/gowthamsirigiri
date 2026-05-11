@@ -1,7 +1,7 @@
 # 🚀 Gowtham Sirigiri | Site Reliability & DevOps Engineer
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Exp-3.9_Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exp-3.10_Years-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Hyderabad,_India-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cert-CKA_(In_Progress)-green?style=for-the-badge" />
 </div>
