@@ -36,7 +36,8 @@
 ### 📊 GitHub Stats (Real-Time)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowthamsirigiri&theme=tokyonight" alt="Gowtham's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamsirigiri&layout=compact&theme=tokyonight" height="150" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=gowthamsirigiri&theme=tokyonight" alt="Gowtham's Stats" height="150" /> -->
 </p>
 
 ---
