@@ -13,7 +13,7 @@
   <a href="mailto:gowthamsirigiri2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru_/_Hyderabad,_India-orange?style=for-the-badge&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru_/_Hyderabad,_India-orange?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
 </div>
 
